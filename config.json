@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://api.juejin.cn",
+  "apiUrl": {
+    "getTodayStatus": "/growth_api/v1/get_today_status",
+    "checkIn": "/growth_api/v1/check_in",
+    "getLotteryConfig": "/growth_api/v1/lottery_config/get",
+    "drawLottery": "/growth_api/v1/lottery/draw"
+  },
+  "cookie": "MONITOR_WEB_ID=d0fca538-5a38-460d-aa07-8846625e5e26; _ga=GA1.2.807449347.1609333477; passport_csrf_token_default=157802de408f0325ee50a5e804656f3b; passport_csrf_token=157802de408f0325ee50a5e804656f3b; sid_guard=a42f1d10783d1825f5ca8cf09b7f115d%7C1630856528%7C5184000%7CThu%2C+04-Nov-2021+15%3A42%3A08+GMT; uid_tt=0d1fbb8a7a3ba1cc42217ceab3fff86b; uid_tt_ss=0d1fbb8a7a3ba1cc42217ceab3fff86b; sid_tt=a42f1d10783d1825f5ca8cf09b7f115d; sessionid=a42f1d10783d1825f5ca8cf09b7f115d; sessionid_ss=a42f1d10783d1825f5ca8cf09b7f115d; sid_ucp_v1=1.0.0-KDhhYWRlYmE1NDQxODUyYTg2ZjEyMTNjOTczNTA4MmQxNWU0OTYzMTkKFgj-18C__fWZAxDQytOJBhiwFDgIQAsaAmxmIiBhNDJmMWQxMDc4M2QxODI1ZjVjYThjZjA5YjdmMTE1ZA; ssid_ucp_v1=1.0.0-KDhhYWRlYmE1NDQxODUyYTg2ZjEyMTNjOTczNTA4MmQxNWU0OTYzMTkKFgj-18C__fWZAxDQytOJBhiwFDgIQAsaAmxmIiBhNDJmMWQxMDc4M2QxODI1ZjVjYThjZjA5YjdmMTE1ZA; n_mh=Ui4rZNDgtAVF69g6eR5Uxr5XMVfnlQL5X8RYHKaDpXQ; _tea_utm_cache_2608={%22utm_source%22:%22gold_browser_extension%22}; _gid=GA1.2.883434838.1635262945; _gat=1"
+}
