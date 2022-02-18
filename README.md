@@ -1,1 +1,1 @@
-# auto-jujin
+# auto-juejin
